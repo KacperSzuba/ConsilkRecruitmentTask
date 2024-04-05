@@ -1,4 +1,4 @@
-# Dynamic Star Printer
+# Consilk recruitment task
 
 This repository contains a simple Java program for printing stars dynamically. The `StarPrinter` class provides a method to print stars in a pattern that increases with each iteration.
 
